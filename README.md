@@ -1,1 +1,1 @@
-# Mapty
+# Sendpal
